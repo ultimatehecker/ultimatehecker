@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ultimatehecker
+- 👀 I’m interested in programming and sometimes gaming
+- 🌱 I’m currently learning how to learn in JavaScript and other languages I find interesting
+- 💞️ I’m looking to collaborate on any client based project from Minecraft or Discord
+- 📫 How to reach me: Contact redstoniaomg@gmail.com
