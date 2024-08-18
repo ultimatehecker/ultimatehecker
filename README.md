@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @ultimatehecker
-- 👀 I’m interested in programming, engineering and sometimes gaming
-- 🌱 I’m currently learning how to learn in JavaScript, Typescript, Java, C++ and any other programming language that interests me!
-- 💞️ I’m looking to collaborate on any project on a language im familar with.
+- 🥇 Currently a proud member of @hackclub
+- 👀 I’m interested in programming, engineering and computer aided design!
+- 🌱 I’m currently learning Typescript, Java, C++ and anything else I find interesting!
 - 📫 How to reach me: Contact redstoniaomg@gmail.com
+
